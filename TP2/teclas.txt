@@ -1,0 +1,7 @@
+
+w=NORTE
+a=OESTE
+s=SUR
+d=ESTE
+r=REINICIAR
+Escape=SALIR
